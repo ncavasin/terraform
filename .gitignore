@@ -12,6 +12,7 @@ __pycache__/
 idea/
 
 output_files/
+
 tf-gcp-service-account.json
 
 # Distribution / packaging
