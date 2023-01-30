@@ -32,4 +32,5 @@ resource "google_compute_firewall" "allow_icmp" {
     protocol = "ICMP"
   }
   source_ranges = ["181.170.109.131"]
+  priority = 1
 }
